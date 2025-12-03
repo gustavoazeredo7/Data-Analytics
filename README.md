@@ -1,41 +1,172 @@
-📊 Data Portfolio — Gustavo Azeredo
+📊 Data Analytics Portfolio — Gustavo Azeredo
 
-Seja bem-vindo ao meu portfólio de projetos de Análise de Dados, Business Intelligence, Estratégia e Growth.
+Bem-vindo ao meu portfólio de Análise de Dados, Business Intelligence e Estratégia, com projetos completos desenvolvidos utilizando SQL, Power BI, Excel e técnicas de Data Analytics.
 
-Aqui você encontrará cases completos com:
+Todos os projetos aqui são baseados em dados públicos (Kaggle, dados.gov.br, IBGE, DataSUS etc.), garantindo ética, transparência e foco total no processo de análise.
 
-Pergunta de negócio
+Este portfólio tem como objetivo demonstrar minha capacidade de:
 
-Base de dados
+Construir análises estruturadas com pensamento de negócio
 
-Limpeza e transformação (Excel / SQL / Power Query)
+Fazer ETL e transformação de dados (SQL / Power Query)
 
-Análise exploratória
+Desenvolver dashboards profissionais (Power BI)
 
-Dashboards (Power BI)
+Criar KPIs e insights estratégicos
 
-Insights estratégicos
+Documentar raciocínio, decisões, hipóteses e resultados
 
-Recomendações de negócio
+Apresentar soluções de dados aplicadas em cenários reais
 
-🔍 Projetos
-1. Divergências de Estoque de Produtos — Empresa setor de alimentos
+🧩 Áreas de Análise
 
-Status: Em construção
-Ferramentas: Excel, Power BI
-Descrição: Análise para identificar os produtos, motivos e compradores que mais geram divergências de entrada no processo de recebimento.
+Abaixo estão as principais frentes de projetos que estou desenvolvendo:
 
-➡️ /estoque-divergencias (pasta será criada ainda)
+⚕️ 1. COVID-19 Analytics
 
-2. Pesquisa de Mercado (Estratégia Go-To-Market) — Indústria de Tintas
+(SQL + Power BI)
 
-Status: Em construção
-Ferramentas: Excel, Power BI, SQL
-Descrição: Análise de Mercado de empresas fabricantes de tintas no cenário nacional e global.
+Análises usando datasets globais e nacionais, explorando:
 
-➡️ /analise-mercadoTintas (pasta será criada ainda)
+Casos e mortes diárias
+
+Séries temporais
+
+Variação semanal/mensal
+
+Rankings por país/estado
+
+Taxa de letalidade
+
+Curvas epidemiológicas
+
+Mapas interativos
+
+📁 Pasta: /covid19-analytics
+🔗 Dashboard Power BI: (a ser adicionado)
+
+⚽ 2. Futebol Analytics (Brasileirão + Ligas Europeias)
+
+(SQL + Power BI)
+
+Análises envolvendo desempenho de equipes e jogadores:
+
+Ranking por temporada
+
+Pontos ganhos como mandante/visitante
+
+Gols pró/contra e eficiência ofensiva
+
+Heatmaps de gols
+
+Comparação entre equipes
+
+Estatísticas de ligas (Premier League, La Liga, Série A, Bundesliga)
+
+📁 Pasta: /futebol-analytics
+🔗 Dashboard Power BI: (a ser adicionado)
+
+🛒 3. Vendas & Comércio (Sales Analytics)
+
+(SQL + Power BI)
+
+Projetos simulando ambientes reais de varejo e BI:
+
+Receita, margem e ticket médio
+
+Top produtos e categorias
+
+Segmentação de clientes
+
+Análises de loja / região
+
+Forecast simples
+
+Indicadores de operação
+
+📁 Pasta: /sales-analytics
+🔗 Dashboard Power BI: (a ser adicionado)
+
+🧮 4. Projetos Extras (Economia, População, Mercado, Tendências)
+
+(SQL + Power BI)
+
+Análises com bases públicas do IBGE, DataSUS, Governo Federal, FIFA datasets, Google Trends e outras fontes.
+
+📁 Pasta: /extra-analytics
+🔗 Dashboard Power BI: (a ser adicionado)
+
+🛠️ Ferramentas Utilizadas
+
+SQL
+
+SQLite / MySQL / PostgreSQL
+
+Criação de tabelas
+
+ETL e limpeza
+
+consultas exploratórias
+
+análises avançadas e KPIs
+
+Power BI
+
+Modelagem
+
+Power Query (M)
+
+DAX básico/intermediário
+
+Dashboards interativos
+
+Excel
+
+Análises complementares
+
+Tratamento de dados
+
+GitHub
+
+Organização de projetos
+
+Controle de versões
+
+Documentação (README, Markdown)
+
+📁 Estrutura dos Projetos
+
+Cada projeto segue o mesmo padrão:
+
+projeto-nome/
+│
+├── data/                → bases de dados públicas usadas no projeto
+├── sql/                 → scripts SQL (criação, limpeza, análises, KPIs)
+├── powerbi/             → arquivo .pbix e prints do relatório
+└── README.md            → explicação completa do case (problema, análise, insights)
+
+💼 Sobre mim
+
+Sou Gustavo Azeredo, Analista de Negócios com experiência em consultoria estratégica e projetos de:
+
+Business Intelligence
+
+Estratégia e Novos Negócios
+
+Processos e análise de dados
+
+Estudos de mercado
+
+Pricing
+
+Eficiência operacional
+
+Atualmente estou aprofundando minhas habilidades em Análise de Dados, com foco em SQL, Power BI e pensamento analítico aplicado a decisões de negócio.
 
 📬 Contato
 
-LinkedIn: https://linkedin.com/in/gustavogazeredo
-Email: gustavoazeredo7@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/gustavogazeredo
+
+📧 Email: gustavoazeredo7@gmail.com
+
+🐙 GitHub: github.com/gustavoazeredo7
