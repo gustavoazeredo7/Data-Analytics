@@ -74,21 +74,24 @@ Análises com bases públicas do IBGE, DataSUS, Governo Federal, FIFA datasets, 
 🛠️ Ferramentas Utilizadas
 
 SQL
-SQLite / MySQL / PostgreSQL
-Criação de tabelas
-ETL e limpeza
-consultas exploratórias
-análises avançadas e KPIs
+- Bancos de dados: SQLite, MySQL, PostgreSQL
+- Modelagem e estruturação: criação e manutenção de tabelas
+- ETL: extração, tratamento e limpeza de dados
+- Análises: consultas exploratórias, análises avançadas e construção de KPIs
+
 Power BI
-Modelagem
-Power Query (M)
-DAX básico/intermediário
-Dashboards interativos
+- Modelagem de dados
+- Power Query (M): tratamento e transformação
+- DAX: nível básico a intermediário
+- Visualização: dashboards interativos orientados a negócio
+
 Excel
-Análises complementares
-Tratamento de dados
-Organização de projetos
-Controle de versões
+- Análises complementares e validações
+- Tratamento e organização de dados
+- Estruturação de projetos e controles auxiliares
+
+Controle de Versões
+- Versionamento e organização de entregáveis no GitHub
 
 📁 Estrutura dos Projetos
 
@@ -108,7 +111,6 @@ Sou Gustavo Azeredo, Analista de Negócios com experiência em consultoria estra
 - Estratégia e Novos Negócios
 - Processos e análise de dados
 - Estudos de mercado
-- Pricing
 
 Atualmente estou aprofundando minhas habilidades em Análise de Dados, com foco em SQL, Power BI e pensamento analítico aplicado a decisões de negócio.
 
