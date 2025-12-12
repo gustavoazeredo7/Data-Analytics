@@ -1,6 +1,6 @@
 📊 Data Analytics Portfolio — Gustavo Azeredo
 
-Bem-vindo ao meu portfólio de Análise de Dados, Business Intelligence e Estratégia, com projetos completos desenvolvidos utilizando SQL, Power BI, Excel e técnicas de Data Analytics.
+Bem-vindo ao meu portfólio de Análise de Dados, Business Intelligence e Estratégia, com projetos desenvolvidos utilizando SQL, Power BI, Excel e técnicas de Data Analytics.
 
 Todos os projetos aqui são baseados em dados públicos (Kaggle, dados.gov.br, IBGE, DataSUS etc.), garantindo ética, transparência e foco total no processo de análise.
 
@@ -36,13 +36,13 @@ Abaixo estão as principais frentes de projetos que estou desenvolvendo:
 
 (SQL + Power BI)
 
-Análises envolvendo desempenho de equipes e jogadores:
-Ranking por temporada
-Pontos ganhos como mandante/visitante
-Gols pró/contra e eficiência ofensiva
-Heatmaps de gols
-Comparação entre equipes
-Estatísticas de ligas (Premier League, La Liga, Série A, Bundesliga)
+- Análises envolvendo desempenho de equipes e jogadores:
+- Ranking por temporada
+- Pontos ganhos como mandante/visitante
+- Gols pró/contra e eficiência ofensiva
+- Heatmaps de gols
+- Comparação entre equipes
+- Estatísticas de ligas (Premier League, La Liga, Série A, Bundesliga)
 
 📁 Pasta: /futebol-analytics
 🔗 Dashboard Power BI: (a ser adicionado)
@@ -51,13 +51,13 @@ Estatísticas de ligas (Premier League, La Liga, Série A, Bundesliga)
 
 (SQL + Power BI)
 
-Projetos simulando ambientes reais de varejo e BI:
-Receita, margem e ticket médio
-Top produtos e categorias
-Segmentação de clientes
-Análises de loja / região
-Forecast simples
-Indicadores de operação
+- Projetos simulando ambientes reais de varejo e BI:
+- Receita, margem e ticket médio
+- Top produtos e categorias
+- Segmentação de clientes
+- Análises de loja / região
+- Forecast simples
+- Indicadores de operação
 
 📁 Pasta: /sales-analytics
 🔗 Dashboard Power BI: (a ser adicionado)
@@ -89,8 +89,6 @@ Análises complementares
 Tratamento de dados
 Organização de projetos
 Controle de versões
-
-Documentação (README, Markdown)
 
 📁 Estrutura dos Projetos
 
