@@ -1,6 +1,14 @@
-SQL - Projeto Covid 19
+-- =====================================================
+-- Projeto: COVID-19 Analytics
+-- Arquivo: 01_create_tables.sql
+-- Objetivo: Criar tabelas auxiliares a partir da base owid_covid_data
+-- Observação: Script conforme utilizado no projeto (queries originais)
+-- =====================================================
 
-1. TOTAL POR PAÍS (country_totals)
+-- =====================================================
+-- 1) TOTAL POR PAÍS (country_totals)
+-- Descrição: consolida totais acumulados por país.
+-- =====================================================
 CREATE TABLE country_totals AS
 SELECT
     location AS country,
@@ -10,7 +18,10 @@ FROM owid_covid_data
 WHERE continent IS NOT NULL
 GROUP BY location;
 
-2. DIÁRIO POR PAÍS (daily_country)
+-- =====================================================
+-- 2) DIÁRIO POR PAÍS (daily_country)
+-- Descrição: base diária por país (novos e acumulados).
+-- =====================================================
 CREATE TABLE daily_country AS
 SELECT
     location AS country,
@@ -22,7 +33,10 @@ SELECT
 FROM owid_covid_data
 WHERE continent IS NOT NULL;
 
-3. MENSAL POR PAÍS (monthly_country)
+-- =====================================================
+-- 3) MENSAL POR PAÍS (monthly_country)
+-- Descrição: agregação mensal por país (novos casos e novas mortes).
+-- =====================================================
 CREATE TABLE monthly_country AS
 SELECT
     location AS country,
@@ -33,7 +47,10 @@ FROM owid_covid_data
 WHERE continent IS NOT NULL
 GROUP BY country, year_month;
 
-4. BRASIL vs MUNDO (br_vs_world)
+-- =====================================================
+-- 4) BRASIL vs MUNDO (br_vs_world)
+-- Descrição: comparação diária Brasil vs Mundo.
+-- =====================================================
 CREATE TABLE br_vs_world AS
 SELECT
     date,
